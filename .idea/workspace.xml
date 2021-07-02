@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/BOJ 12865.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ 20941.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 01520.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +43,8 @@
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ 12865">
-    <configuration name="BOJ 02156" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ 01520">
+    <configuration name="BOJ 01520" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-boj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +56,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 02156.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 01520.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ 01520" />
         <item itemvalue="Python.BOJ 12865" />
         <item itemvalue="Python.BOJ 11054" />
         <item itemvalue="Python.BOJ 09251" />
         <item itemvalue="Python.BOJ 10844" />
-        <item itemvalue="Python.BOJ 02156" />
       </list>
     </recent_temporary>
   </component>
