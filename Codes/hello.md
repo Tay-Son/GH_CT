@@ -1,2 +1,0 @@
-# algorithm-boj/Codes
-Test
