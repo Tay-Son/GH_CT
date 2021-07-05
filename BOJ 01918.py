@@ -5,33 +5,25 @@ stk_ = []
 str_answer = ''
 
 for chr_ in str_:
-    if chr_ in ["+", "-", "*", "/"]:
+    if chr_ in ["+", "-"]:
+        while stk_ and stk_[-1] != '(':
+            str_answer += stk_.pop()
+        stk_.append(chr_)
+    elif chr_ in ["*", "/"]:
+        while stk_ and stk_[-1] in ["*", "/"]:
+            str_answer += stk_.pop()
         stk_.append(chr_)
     elif chr_ == '(':
         stk_.append(chr_)
     elif chr_ == ')':
-        lst_p = []
-        lst_o = []
-
-        lst_p.append(stk_.pop())
-        while stk_[-1] != '(':
-            lst_o.append(stk_.pop())
-            lst_p.append(stk_.pop())
+        while stk_ and stk_[-1] != '(':
+            str_answer += stk_.pop()
         stk_.pop()
-
-        stk_.append(''.join(reversed(lst_p)) + ''.join(lst_o))
     else:
-        stk_.append(chr_)
-lst_p = []
-lst_o = []
+        str_answer += chr_
 
-lst_p.append(stk_.pop())
 while stk_:
-    lst_o.append(stk_.pop())
-    lst_p.append(stk_.pop())
-
-stk_.append(''.join(reversed(lst_p)) + ''.join(lst_o))
-
-print(stk_[-1])
+    str_answer += stk_.pop()
+print(str_answer)
 
 exit()
