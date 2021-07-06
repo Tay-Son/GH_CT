@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/Codes/BOJ 05430.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 01520.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 01520.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 01766.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 01766.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 01918.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 01918.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 01932.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 01932.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 02156.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 02156.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 09251.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 09251.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 10840.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 10844.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 10844.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 11054.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 11054.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 12865.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 12865.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 14003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 14003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 14942.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 14942.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 20941.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 20941.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 01254.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 01762.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
