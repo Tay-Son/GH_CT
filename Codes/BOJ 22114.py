@@ -12,11 +12,10 @@ for each_ in map(int, sys.stdin.readline().split()):
         cnt_ = 1
 lst_.append(cnt_)
 
-max_ = 0
+max_ = lst_[0]
 for idx_ in range(len(lst_) - 1):
     max_ = max(max_, lst_[idx_] + lst_[idx_ + 1])
 
 print(max_)
-print(lst_)
 
 exit()
