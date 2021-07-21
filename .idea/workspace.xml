@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/BOJ 16402.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes/BOJ 22116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEMP 01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEMP 02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEMP 03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEMP 05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 01016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 01275.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 01517.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 01786.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 02042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 22289.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 22113.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 22114.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ 22115.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp 04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEMP 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ 22251.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEMP 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ 22252.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEMP 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ 22253.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEMP 05.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ 22255.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TEMP 05">
+  <component name="RunManager" selected="Python.BOJ 22255">
     <configuration name="BOJ 16402" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-boj" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TEMP 01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ 22251" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-boj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +133,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEMP 01.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-boj\BOJ 22251.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TEMP 02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ 22252" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-boj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +155,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEMP 02.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-boj\BOJ 22252.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TEMP 03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ 22253" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-boj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,7 +177,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEMP 03.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-boj\BOJ 22253.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TEMP 05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ 22255" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-boj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,7 +199,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEMP 05.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-boj\BOJ 22255.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,10 +210,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TEMP 05" />
-        <item itemvalue="Python.TEMP 03" />
-        <item itemvalue="Python.TEMP 02" />
-        <item itemvalue="Python.TEMP 01" />
+        <item itemvalue="Python.BOJ 22255" />
+        <item itemvalue="Python.BOJ 22253" />
+        <item itemvalue="Python.BOJ 22252" />
+        <item itemvalue="Python.BOJ 22251" />
         <item itemvalue="Python.BOJ 16402" />
       </list>
     </recent_temporary>
@@ -243,6 +243,8 @@
       <workItem from="1626707690589" duration="291000" />
       <workItem from="1626752398865" duration="8826000" />
       <workItem from="1626775296546" duration="15508000" />
+      <workItem from="1626802612200" duration="683000" />
+      <workItem from="1626827677357" duration="2015000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>
