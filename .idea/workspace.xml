@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test" />
+    <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/BOJ 01708.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 09240.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-pp/BOJ 02249.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/BOJ 10868.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/BOJ 11401.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/BOJ 11505.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/BOJ 13711.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/BOJ 14427.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes/BOJ 16991.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 02098.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/02K/BOJ 02098.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 02268.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/02K/BOJ 02268.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 02357.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/02K/BOJ 02357.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 03015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 03015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 09576.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/BOJ 09576.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/BOJ 01016.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/01K/BOJ 01016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/BOJ 01275.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/01K/BOJ 01275.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/BOJ 01517.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/01K/BOJ 01517.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/BOJ 01786.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/01K/BOJ 01786.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes/BOJ 02042.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes/02K/BOJ 02042.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,14 +59,58 @@
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-pp" />
-      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes\11K" />
-      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes\02K" />
+      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes" />
+      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes\01K" />
+      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes\02K" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ 10840">
+  <component name="RunManager" selected="Python.BOJ 09240">
+    <configuration name="BOJ 01708" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-boj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 01708.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ 09240" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-boj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 09240.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BOJ 10840" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-boj" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,50 +125,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-pp\BOJ 10840.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ 22251" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm-boj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes\BOJ 22251.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ 22252" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm-boj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes\BOJ 22252.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ 09240" />
+        <item itemvalue="Python.BOJ 01708" />
         <item itemvalue="Python.BOJ 10840" />
         <item itemvalue="Python.BOJ 22255" />
         <item itemvalue="Python.BOJ 22253" />
-        <item itemvalue="Python.BOJ 22252" />
-        <item itemvalue="Python.BOJ 22251" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +215,8 @@
       <workItem from="1626802612200" duration="683000" />
       <workItem from="1626827677357" duration="7667000" />
       <workItem from="1626879110505" duration="28000" />
+      <workItem from="1626880185546" duration="444000" />
+      <workItem from="1626941345450" duration="15206000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>
@@ -228,10 +251,12 @@
     <SUITE FILE_PATH="coverage/algorithm_boj$TEMP_01.coverage" NAME="TEMP 01 Coverage Results" MODIFIED="1626777111398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$TEMP_03.coverage" NAME="TEMP 03 Coverage Results" MODIFIED="1626784886890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_22114__1_.coverage" NAME="BOJ 22114 (1) Coverage Results" MODIFIED="1626762013722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_09240.coverage" NAME="BOJ 09240 Coverage Results" MODIFIED="1626958834975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_16402.coverage" NAME="BOJ 16402 Coverage Results" MODIFIED="1626765531232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_10840.coverage" NAME="BOJ 10840 Coverage Results" MODIFIED="1626839233323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$TEMP_05.coverage" NAME="TEMP 05 Coverage Results" MODIFIED="1626790440957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_22116__1_.coverage" NAME="BOJ 22116 (1) Coverage Results" MODIFIED="1626762009805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01708.coverage" NAME="BOJ 01708 Coverage Results" MODIFIED="1626956139340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$TEMP_02.coverage" NAME="TEMP 02 Coverage Results" MODIFIED="1626779626033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
