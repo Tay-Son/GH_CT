@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/BOJ 02568.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,8 +38,8 @@
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-pp" />
+      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes\01K" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes\02K" />
@@ -200,7 +197,7 @@
       <workItem from="1626880185546" duration="444000" />
       <workItem from="1626941345450" duration="15206000" />
       <workItem from="1627035491019" duration="2635000" />
-      <workItem from="1627128637450" duration="9055000" />
+      <workItem from="1627128637450" duration="9419000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>
