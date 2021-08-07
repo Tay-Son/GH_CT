@@ -6,28 +6,22 @@ lst_ = [-1]
 
 
 def dist_(idx_a, idx_b):
+    if idx_a == 0:
+        r_a,c_a =
     r_a, c_a = lst_[idx_a]
     r_b, c_b = lst_[idx_b]
     return abs(r_a - r_b) + abs(c_a - c_b)
 
 
 mat_dp = [[() for _ in range(W_ + 1)]]
-for cnt_ in range(1, W_ + 1):
-    r_, c_ = map(int,sys.stdin.readline().split())
-    dist_0 = abs(r_-1) + abs(c_-1)
-    dist_1 = abs(r_-N_)+ abs(c_-N_)
-    mat_dp[0][cnt_] = (mat_dp[0][cnt_-1][0] + dist_0,0)
-    mat_dp[cnt_][0] = (mat_dp[cnt_-1][0][0] + dist_1,1)
+for _ in range(1, W_ + 1):
     lst_.append(tuple(map(int, sys.stdin.readline().split())))
-
-    
 
 mat_dp[0][1] = dist_(0,1)
 
 for cnt_ in range(1, W_ + 2):
-
-    mat_dp[0][cnt_] = (mat_dp[0][cnt_-1][0] + ,0)
-    mat_dp[cnt_][0] = (mat_dp[cnt_-1][0][0] + abs(N_-lst_),1)
+    mat_dp[0][cnt_] = (mat_dp[0][1][0] + ,0)
+    mat_dp[cnt_][0] =
 
     for cnt_sub in range(1, cnt_):
         pass
