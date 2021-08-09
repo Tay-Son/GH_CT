@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change beforePath="$PROJECT_DIR$/BOJ 02618.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ 02618.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02170.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02467.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02470.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02493.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 03020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 03190.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 04358.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 01107.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 01107.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 01759.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 01759.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 20924.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 20924.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 20943.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 20943.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 20947.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 20947.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +62,11 @@
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-cmplt" />
+      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-pp" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-cmplt\11K" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-cmplt\04K" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-cmplt\03K" />
-      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-cmplt\02K" />
-      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-cmplt\01K" />
     </key>
   </component>
   <component name="RunManager" selected="Python.BOJ 11400b">
@@ -222,6 +236,9 @@
       <workItem from="1628117095952" duration="5761000" />
       <workItem from="1628216571730" duration="422000" />
       <workItem from="1628221710006" duration="12918000" />
+      <workItem from="1628308916887" duration="564000" />
+      <workItem from="1628309677997" duration="3751000" />
+      <workItem from="1628474315852" duration="1699000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>

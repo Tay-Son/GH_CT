@@ -19,12 +19,9 @@ ans_ = (N_ * (N_ - 1)) // 2
 cnt_ = 0
 
 for idx_ in range(N_ - 1):
-    if lst_[idx_][0] == lst_[idx_ + 1][0]:
-        if lst_[idx_][1] != lst_[idx_ + 1][1]:
-            cnt_ += 1
-            ans_ -= cnt_
-        else:
-            cnt_ = 0
+    if lst_[idx_][0] == lst_[idx_ + 1][0] and lst_[idx_][1] != lst_[idx_ + 1][1]:
+        cnt_ += 1
+        ans_ -= cnt_
     else:
         cnt_ = 0
 
