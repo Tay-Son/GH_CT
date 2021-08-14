@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 01991.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 01992.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-pp/BOJ 03679.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02178.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02293.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02294.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02447.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02667.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithm-programmers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithm-coding_test-private" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -237,6 +237,8 @@
       <workItem from="1628655257536" duration="5601000" />
       <workItem from="1628736048237" duration="12739000" />
       <workItem from="1628821079670" duration="4581000" />
+      <workItem from="1628891397929" duration="22000" />
+      <workItem from="1628938704485" duration="191000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>
