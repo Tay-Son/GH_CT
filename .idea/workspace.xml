@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/BOJ 01987.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ 05525.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ 09184.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ 09465.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ 09659.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ 10971.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-pp/BOJ 16565.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 11047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 11053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 11055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 11060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 11279.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 11722.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 11724.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 01987.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 01987.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 05525.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 05525.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 09184.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 09184.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 09465.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 09465.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 09659.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 09659.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 10971.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 10971.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 22963.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 22963.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 22967.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 22967.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +63,9 @@
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-pp" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-cmplt" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj" />
+      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-pp" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-cmplt\11K" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-cmplt\04K" />
     </key>
@@ -76,7 +84,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 01987.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-boj\Codes-cmplt\BOJ 01987.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,6 +257,8 @@
       <workItem from="1629519660198" duration="5000" />
       <workItem from="1629524414922" duration="6000" />
       <workItem from="1629679150543" duration="6567000" />
+      <workItem from="1629687853094" duration="4000" />
+      <workItem from="1629761202137" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>
