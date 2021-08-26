@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf399570-b612-4d66-a73d-17ec6bc4a760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 067256.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 067257.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 067258.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 067259.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-pp/PRG 064063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-pp/PRG 068646.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRG 068644.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRG 068645.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRG 068935.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRG 068936.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRG 070128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRG 012977.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRG 012982.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRG 049993.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRG 062048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRG 062050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRG 082612.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRG 83201.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRG 077484.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRG 081301.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 081301.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRG 081302.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 081302.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRG 081303.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 081303.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRG 081305.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 081305.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRG 068644.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 068644.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRG 068645.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 068645.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRG 068935.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 068935.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRG 068936.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 068936.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRG 070128.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 070128.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +54,56 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-programmers\Codes-pp" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-programmers\Codes-cmplt" />
+      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-programmers\Codes-pp" />
       <recent name="C:\Users\0stix\Documents\GitHub\algorithm-programmers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PRG 068936">
+  <component name="RunManager" selected="Python.PRG 062050">
+    <configuration name="PRG 062048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-programmers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-programmers\Codes-cmplt\PRG 062048.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PRG 062050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-programmers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-programmers\Codes-cmplt\PRG 062050.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="PRG 064063" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-programmers" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,50 +126,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PRG 067258" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm-programmers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-programmers\Codes-cmplt\PRG 067258.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PRG 067259" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm-programmers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-programmers\Codes-cmplt\PRG 067259.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="PRG 068645" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-programmers" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,7 +139,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRG 068645.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-programmers\Codes-cmplt\PRG 068645.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +161,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRG 068936.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Documents\GitHub\algorithm-programmers\Codes-cmplt\PRG 068936.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PRG 062050" />
+        <item itemvalue="Python.PRG 062048" />
         <item itemvalue="Python.PRG 068936" />
         <item itemvalue="Python.PRG 068645" />
         <item itemvalue="Python.PRG 064063" />
-        <item itemvalue="Python.PRG 067259" />
-        <item itemvalue="Python.PRG 067258" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +197,7 @@
       <workItem from="1629687858550" duration="16464000" />
       <workItem from="1629761193704" duration="7000" />
       <workItem from="1629763244692" duration="3600000" />
+      <workItem from="1629942238885" duration="10328000" />
     </task>
     <servers />
   </component>
@@ -222,6 +219,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_081305.coverage" NAME="PRG 081305 Coverage Results" MODIFIED="1629556075324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_081302.coverage" NAME="PRG 081302 Coverage Results" MODIFIED="1629541866605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_062048.coverage" NAME="PRG 062048 Coverage Results" MODIFIED="1629942865702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_067257.coverage" NAME="PRG 067257 Coverage Results" MODIFIED="1629696210506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_067259.coverage" NAME="PRG 067259 Coverage Results" MODIFIED="1629716722202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_068645.coverage" NAME="PRG 068645 Coverage Results" MODIFIED="1629766582055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -231,6 +229,7 @@
     <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_067258.coverage" NAME="PRG 067258 Coverage Results" MODIFIED="1629698126874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_043164.coverage" NAME="PRG 043164 Coverage Results" MODIFIED="1629535301483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_081303.coverage" NAME="PRG 081303 Coverage Results" MODIFIED="1629546612888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_062050.coverage" NAME="PRG 062050 Coverage Results" MODIFIED="1629953926916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_068936.coverage" NAME="PRG 068936 Coverage Results" MODIFIED="1629766583983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_programmers$PRG_043163.coverage" NAME="PRG 043163 Coverage Results" MODIFIED="1629524270445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
