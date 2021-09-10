@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 08393.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 10171.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 10172.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 10430.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 10718.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 10757.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 01712.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02588.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02753.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 10869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 10998.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 11654.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,6 +274,7 @@
       <workItem from="1631069875597" duration="1436000" />
       <workItem from="1631160014583" duration="1238000" />
       <workItem from="1631168475315" duration="4000" />
+      <workItem from="1631248643816" duration="287000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>
