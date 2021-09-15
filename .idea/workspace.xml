@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/BOJ 01085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ 02438.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ 02439.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ 02440.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ 02441.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 01009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 01009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 05543.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 05543.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 09498.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 09498.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 10039.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 10039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 10797.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 10797.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 14681.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 14681.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02442.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02443.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02444.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02445.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02446.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 01085.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 01085.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 02438.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02438.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 02439.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02439.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 02440.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02440.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 02441.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 02441.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,6 +283,7 @@
       <workItem from="1631275656126" duration="5000" />
       <workItem from="1631509276608" duration="140000" />
       <workItem from="1631524151633" duration="5258000" />
+      <workItem from="1631672264362" duration="335000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>
