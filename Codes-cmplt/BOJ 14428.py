@@ -1,64 +1,66 @@
 import sys
+import math
+
+INF_ = 1000000007
+
+N_ = int(sys.stdin.readline())
+
+cch_ = 2 ** math.ceil(math.log2(N_ + 1))
+
+tre_ = [0 for _ in range(cch_ * 2)]
 
 
-def func_(W_, ptr_s, lst_N_a, lst_N_b, lst_sa, lst_sb, lst_sc):
-    for idx_ in range(ptr_s, len(lst_N_a)):
-        lst_sa[idx_ + 1] = min(lst_sb[idx_] + 1, lst_sc[idx_] + 1)
-        if lst_N_a[idx_] + lst_N_b[idx_] <= W_:
-            lst_sa[idx_ + 1] = min(lst_sa[idx_ + 1], lst_sa[idx_] + 1)
-        if idx_ != 0 \
-                and lst_N_a[idx_ - 1] + lst_N_a[idx_] <= W_ \
-                and lst_N_b[idx_ - 1] + lst_N_b[idx_] <= W_:
-            lst_sa[idx_ + 1] = min(lst_sa[idx_ + 1], lst_sa[idx_ - 1] + 2)
-        if idx_ != len(lst_N_a) - 1:
-            lst_sb[idx_ + 1] = lst_sa[idx_ + 1] + 1
-            if lst_N_a[idx_ + 1] + lst_N_a[idx_] <= W_:
-                lst_sb[idx_ + 1] = min(lst_sb[idx_ + 1], lst_sc[idx_] + 1)
-            lst_sc[idx_ + 1] = lst_sa[idx_ + 1] + 1
-            if lst_N_b[idx_ + 1] + lst_N_b[idx_] <= W_:
-                lst_sc[idx_ + 1] = min(lst_sc[idx_ + 1], lst_sb[idx_] + 1)
+def update_(idx_, value_):
+    # print(idx_, value_)
+    lst_[idx_] = value_
+    idx_tre = idx_ + cch_
+    tre_[idx_tre] = idx_
+    idx_tre //= 2
+    while idx_tre:
+        # print(tre_)
+        # print(idx_, tre_[idx_ * 2], tre_[idx_ * 2 + 1])
+        if lst_[tre_[idx_tre * 2]] <= lst_[tre_[idx_tre * 2 + 1]]:
+            tre_[idx_tre] = tre_[idx_tre * 2]
+        else:
+            tre_[idx_tre] = tre_[idx_tre * 2 + 1]
+        idx_tre //= 2
 
+
+def get_(idx_tre, idx_s, idx_e, ptr_l, ptr_r):
+    # print(idx_tre, idx_s, idx_e, ptr_l, ptr_r)
+    if idx_s == ptr_l and idx_e == ptr_r:
+        return tre_[idx_tre]
+    else:
+        ptr_c = (ptr_l + ptr_r) // 2
+        min_idx = 0
+        if idx_s < ptr_c:
+            temp_ = get_(idx_tre * 2, idx_s, min(idx_e, ptr_c), ptr_l, ptr_c)
+            if lst_[min_idx] > lst_[temp_]:
+                min_idx = temp_
+
+        if ptr_c < idx_e:
+            temp_ = get_(idx_tre * 2 + 1, max(ptr_c, idx_s), idx_e, ptr_c, ptr_r)
+            if lst_[min_idx] > lst_[temp_]:
+                min_idx = temp_
+        return min_idx
+
+
+print(len(tre_))
+print(tre_)
+lst_ = [INF_ for _ in range(cch_)]
+print(lst_)
+
+for idx_, value_ in enumerate(map(int, sys.stdin.readline().split())):
+    idx_ += 1
+    update_(idx_, value_)
+print(lst_)
+print(tre_)
 
 for _ in range(int(sys.stdin.readline())):
-    N_, W_ = map(int, sys.stdin.readline().split())
-    lst_N_a = list(map(int, sys.stdin.readline().split()))
-    lst_N_b = list(map(int, sys.stdin.readline().split()))
-
-    lst_sa = [0 for _ in range(N_ + 1)]
-    lst_sb = [0 for _ in range(N_ + 1)]
-    lst_sc = [0 for _ in range(N_ + 1)]
-    lst_sb[0] = 1
-    lst_sc[0] = 1
-
-    func_(W_, 0, lst_N_a, lst_N_b, lst_sa, lst_sb, lst_sc)
-    min_ = lst_sa[N_]
-
-    if N_ > 1:
-        if lst_N_a[0] + lst_N_a[N_ - 1] <= W_:
-            lst_sa[1] = 1
-            lst_sb[1] = 2
-            if lst_N_b[0] + lst_N_b[1] <= W_:
-                lst_sc[1] = 1
-            else:
-                lst_sc[1] = 2
-            func_(W_, 1, lst_N_a, lst_N_b, lst_sa, lst_sb, lst_sc)
-            min_ = min(min_, lst_sc[N_ - 1] + 1)
-        if lst_N_b[0] + lst_N_b[N_ - 1] <= W_:
-            lst_sa[1] = 1
-            lst_sc[1] = 2
-            if lst_N_a[0] + lst_N_a[1] <= W_:
-                lst_sb[1] = 1
-            else:
-                lst_sb[1] = 2
-            func_(W_, 1, lst_N_a, lst_N_b, lst_sa, lst_sb, lst_sc)
-            min_ = min(min_, lst_sb[N_ - 1] + 1)
-        if lst_N_a[0] + lst_N_a[N_ - 1] <= W_ and lst_N_b[0] + lst_N_b[N_ - 1] <= W_:
-            lst_sa[1] = 0
-            lst_sb[1] = 1
-            lst_sc[1] = 1
-
-            func_(W_, 1, lst_N_a, lst_N_b, lst_sa, lst_sb, lst_sc)
-            min_ = min(min_, lst_sa[N_ - 1] + 2)
-    print(min_)
+    com_, val_a, val_b = map(int, sys.stdin.readline().split())
+    if com_ == 1:
+        update_(val_a, val_b)
+    elif com_ == 2:
+        print(get_(1, val_a, val_b + 1, 0, cch_))
 
 exit()
