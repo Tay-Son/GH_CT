@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 14428 C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 15824.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 14428.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 01009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/01K/BOJ 01009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 01032.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/01K/BOJ 01032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 01085.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/01K/BOJ 01085.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 01110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/01K/BOJ 01110.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 01193.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/01K/BOJ 01193.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 01237.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/01K/BOJ 01237.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 01298.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/01K/BOJ 01298.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 01712.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/01K/BOJ 01712.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02231.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02231.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02292.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02292.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02309.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02309.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02438.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02438.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02439.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02439.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02440.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02440.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02441.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02441.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02442.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02442.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02443.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02443.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02444.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02444.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02445.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02445.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02446.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02446.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02455.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02455.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02475.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02475.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02490.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02490.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02523.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02523.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02557.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02557.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02558.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02558.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02562.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02562.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02576.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02576.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02577.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02577.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02588.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02588.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02675.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02675.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02739.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02739.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02741.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02741.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02742.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02742.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02747.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02747.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02753.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02753.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02775.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02775.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02798.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02798.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02884.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02884.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02902.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02902.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02908.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02908.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 02920.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/02K/BOJ 02920.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 03009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/03K/BOJ 03009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 03052.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/03K/BOJ 03052.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 03053.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/03K/BOJ 03053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 04153.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/04K/BOJ 04153.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes-cmplt/BOJ 14428.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 14428.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes-pp/BOJ 16565.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-pp/BOJ 16565.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +67,7 @@
       <recent name="C:\Users\0stix\Source\algorithm-boj\Codes-cmplt\01K" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ 15824">
+  <component name="RunManager" selected="Python.BOJ 16565">
     <configuration name="BOJ 13907" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-boj" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ 17371" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ 16565" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-boj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,12 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codes-pp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\0stix\Source\algorithm-boj\Codes-cmplt\BOJ 17371.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codes-pp/BOJ 16565.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ 16565" />
         <item itemvalue="Python.BOJ 15824" />
         <item itemvalue="Python.BOJ 14428" />
         <item itemvalue="Python.BOJ 13977" />
         <item itemvalue="Python.BOJ 13907" />
-        <item itemvalue="Python.BOJ 17371" />
       </list>
     </recent_temporary>
   </component>
@@ -357,6 +308,8 @@
       <workItem from="1633488519986" duration="2872000" />
       <workItem from="1633597436798" duration="11659000" />
       <workItem from="1633655972776" duration="4339000" />
+      <workItem from="1633667734534" duration="600000" />
+      <workItem from="1633746198521" duration="2897000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>
@@ -396,7 +349,7 @@
     <SUITE FILE_PATH="coverage/algorithm_boj$temp_a.coverage" NAME="temp a Coverage Results" MODIFIED="1630215329018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_19577.coverage" NAME="BOJ 19577 Coverage Results" MODIFIED="1627663591264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$TEMP_01.coverage" NAME="TEMP 01 Coverage Results" MODIFIED="1626777111398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_16565.coverage" NAME="BOJ 16565 Coverage Results" MODIFIED="1629680148367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_16565.coverage" NAME="BOJ 16565 Coverage Results" MODIFIED="1633749681394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes-pp" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_22116__1_.coverage" NAME="BOJ 22116 (1) Coverage Results" MODIFIED="1626762009805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01019__1_.coverage" NAME="BOJ 01019 (1) Coverage Results" MODIFIED="1627589202734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes-pp" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02150.coverage" NAME="BOJ 02150 Coverage Results" MODIFIED="1627799726271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
