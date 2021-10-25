@@ -1,6 +1,8 @@
 import sys
 import copy
 
+
+
 R_, C_ = map(int, sys.stdin.readline().split())
 grd_ = []
 grd_c = [[True for _ in range(C_)] for _ in range(R_)]
