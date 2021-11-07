@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf399570-b612-4d66-a73d-17ec6bc4a760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PRG 042746.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRG 042860.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codes-cmplt/PRG 012954.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRG 042842.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRG 042860.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-pp/PRG 042860.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +101,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRG 042860.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Source\algorithm-programmers\Codes-pp\PRG 042860.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,6 +251,8 @@
       <workItem from="1635821293410" duration="8000" />
       <workItem from="1636096090747" duration="10436000" />
       <workItem from="1636167190476" duration="4000" />
+      <workItem from="1636260066854" duration="1095000" />
+      <workItem from="1636261196527" duration="3000" />
     </task>
     <servers />
   </component>
