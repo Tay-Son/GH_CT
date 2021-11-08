@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/BOJ 11723.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ 02448.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +67,8 @@
       <recent name="C:\Users\0stix\Source\algorithm-boj\Codes-cmplt\04K" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ 11723">
-    <configuration name="BOJ 02096" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ 02448">
+    <configuration name="BOJ 02448" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm-boj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +81,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 02096.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 02448.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ 02448" />
         <item itemvalue="Python.BOJ 11723" />
         <item itemvalue="Python.BOJ 11657" />
         <item itemvalue="Python.BOJ 11651" />
         <item itemvalue="Python.BOJ 10989" />
-        <item itemvalue="Python.BOJ 02096" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +335,9 @@
       <workItem from="1635929944501" duration="2382000" />
       <workItem from="1635998142740" duration="2472000" />
       <workItem from="1636086446230" duration="6440000" />
-      <workItem from="1636183351737" duration="2441000" />
+      <workItem from="1636183351737" duration="3246000" />
+      <workItem from="1636260060265" duration="5000" />
+      <workItem from="1636344984921" duration="2371000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>
@@ -438,6 +440,7 @@
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_08111.coverage" NAME="BOJ 08111 Coverage Results" MODIFIED="1627284853624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01987.coverage" NAME="BOJ 01987 Coverage Results" MODIFIED="1629685635539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11376.coverage" NAME="BOJ 11376 Coverage Results" MODIFIED="1633147452871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02448.coverage" NAME="BOJ 02448 Coverage Results" MODIFIED="1636347347246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11281.coverage" NAME="BOJ 11281 Coverage Results" MODIFIED="1627963839759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_16402.coverage" NAME="BOJ 16402 Coverage Results" MODIFIED="1626765531232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm_boj$TEMP_05.coverage" NAME="TEMP 05 Coverage Results" MODIFIED="1626790440957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
