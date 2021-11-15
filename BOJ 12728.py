@@ -2,7 +2,7 @@ import sys
 
 
 def cus_mult(cus_a, cus_b):
-    return [cus_a[0] * cus_b[0] + 5 * cus_a[1] * cus_b[1], cus_a[0] * cus_b[1] + cus_a[1] * cus_b[0]]
+    return [cus_a[0] * cus_b[0] + 5  * cus_a[1] * cus_b[1], cus_a[0] * cus_b[1] + cus_a[1] * cus_b[0]]
 
 
 def cus_pow(cus_, num_):
