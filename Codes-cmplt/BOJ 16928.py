@@ -1,43 +1,31 @@
 import sys
+from collections import deque
 
-N_ = int(sys.stdin.readline())
+N_, M_ = map(int, sys.stdin.readline().split())
+lst_ = [0 for _ in range(101)]
 
-if N_ ** .5 == int(N_ ** .5):
-    print(1)
-else:
-    lst_ = [num_ * num_ for num_ in range(1, int(N_ ** .5) + 1)]
-    lst_sub = []
-    for val_a in lst_:
-        is_run = True
-        for val_b in lst_:
-            temp_ = val_a + val_b
-            if temp_ < N_:
-                lst_sub.append(temp_)
-            elif temp_ == N_:
-                print(2)
-                is_run = False
-                break
-            else:
-                break
-        if not is_run:
-            break
-    else:
-        for val_a in lst_sub:
-            is_run = True
-            for val_b in lst_:
-                temp_ = val_a + val_b
-                if temp_ < N_:
-                    pass
-                elif temp_ == N_:
-                    print(3)
-                    is_run = False
-                    break
-                else:
-                    break
-            if not is_run:
-                break
+for _ in range(N_ + M_):
+    idx_s, idx_e = map(int, sys.stdin.readline().split())
+    lst_[idx_s] = idx_e
 
+que_ = deque()
+que_.append((1, 0))
 
+lst_iv = [101 for _ in range(101)]
+
+while que_:
+    idx_s, depth_ = que_.popleft()
+    if lst_iv[idx_s] > depth_:
+        lst_iv[idx_s] = depth_
+        temp_ = lst_[idx_s]
+        if temp_:
+            que_.append((temp_, depth_))
         else:
-            print(4)
+            depth_ += 1
+            for offset_ in range(1, 7):
+                idx_t = idx_s + offset_
+                if idx_t <= 100:
+                    que_.append((idx_t, depth_))
+
+print(lst_iv[100])
 exit()
