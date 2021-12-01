@@ -9,9 +9,6 @@ for idx_n in range(N_):
         grp_[2 * idx_n + 1].append(idx_m)
         grp_[2 * idx_n + 2].append(idx_m)
 
-for each_ in grp_:
-    print(each_)
-
 
 def func(idx_n):
     if lst_visited[idx_n]:
