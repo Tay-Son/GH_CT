@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 11377.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ 01014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ 13907.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ 13907.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 01014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 01014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ 13907.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes-cmplt/BOJ 13907.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 01014.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Source\algorithm-boj\Codes-cmplt\BOJ 01014.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +170,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 13907.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\0stix\Source\algorithm-boj\Codes-cmplt\BOJ 13907.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,6 +364,7 @@
       <workItem from="1638263497625" duration="648000" />
       <workItem from="1638326652408" duration="15218000" />
       <workItem from="1638409661652" duration="9378000" />
+      <workItem from="1638520961212" duration="962000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1625042309949</created>
