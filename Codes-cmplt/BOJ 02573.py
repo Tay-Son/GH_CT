@@ -1,19 +1,4 @@
 import sys
-
-R_, C_ = map(int, sys.stdin.readline().split())
-grd_ = []
-for _ in range(R_):
-    grd_.append(list(map(int, sys.stdin.readline().split())))
-
-grd_0 = [[0 for _ in range(C_)] for _ in range(R_)]
-for idx_r in range(R_):
-    for idx_c in range(C_):
-
-
-
-exit()
-
-import sys
 from copy import deepcopy
 from collections import deque
 
