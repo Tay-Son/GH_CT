@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1ueyPC0Z793qf7JYOsbt694IVaf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KDT_AI3" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\0stix\Documents\GitHub\algorithm-boj" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\0stix\Source\algorithm-boj\Codes-cmplt" />
+      <recent name="C:\Users\0stix\Source\algorithm-boj" />
+      <recent name="C:\Users\0stix\Source\algorithm-boj\Codes-pp" />
+      <recent name="C:\Users\0stix\Source\algorithm-boj\Codes-cmplt\11K" />
+      <recent name="C:\Users\0stix\Source\algorithm-boj\Codes-cmplt\10K" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.BOJ 07562">
+    <configuration name="BOJ 02565" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-boj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 02565.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ 02740" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-boj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 02740.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ 07562" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-boj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 07562.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ 13305" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-boj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 13305.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ 17298" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-boj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ 17298.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BOJ 07562" />
+        <item itemvalue="Python.BOJ 17298" />
+        <item itemvalue="Python.BOJ 02740" />
+        <item itemvalue="Python.BOJ 13305" />
+        <item itemvalue="Python.BOJ 02565" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b43a11db-da67-450e-83ed-f1671b2f991d" name="Default Changelist" comment="" />
+      <created>1625040323010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625040323010</updated>
+      <workItem from="1625796635800" duration="365000" />
+      <workItem from="1625799704385" duration="56000" />
+      <workItem from="1625915235960" duration="701000" />
+      <workItem from="1625934352068" duration="10000" />
+      <workItem from="1626006432878" duration="1630000" />
+      <workItem from="1626132185626" duration="698000" />
+      <workItem from="1626189420094" duration="270000" />
+      <workItem from="1626190070523" duration="11000" />
+      <workItem from="1626277312958" duration="730000" />
+      <workItem from="1626278419855" duration="6000" />
+      <workItem from="1626280060978" duration="15000" />
+      <workItem from="1626424626318" duration="1041000" />
+      <workItem from="1626454342192" duration="895000" />
+      <workItem from="1626602935405" duration="1437000" />
+      <workItem from="1626707690589" duration="291000" />
+      <workItem from="1626752398865" duration="8826000" />
+      <workItem from="1626775296546" duration="15508000" />
+      <workItem from="1626802612200" duration="683000" />
+      <workItem from="1626827677357" duration="7667000" />
+      <workItem from="1626879110505" duration="28000" />
+      <workItem from="1626880185546" duration="444000" />
+      <workItem from="1626941345450" duration="15206000" />
+      <workItem from="1627035491019" duration="2635000" />
+      <workItem from="1627128637450" duration="9419000" />
+      <workItem from="1627260936660" duration="19585000" />
+      <workItem from="1627394325934" duration="5483000" />
+      <workItem from="1627446695480" duration="5586000" />
+      <workItem from="1627528603922" duration="23585000" />
+      <workItem from="1627655314446" duration="10002000" />
+      <workItem from="1627709901275" duration="890000" />
+      <workItem from="1627729254155" duration="329000" />
+      <workItem from="1627795744822" duration="15007000" />
+      <workItem from="1627875776711" duration="8539000" />
+      <workItem from="1627962852796" duration="3182000" />
+      <workItem from="1628036722900" duration="5492000" />
+      <workItem from="1628117095952" duration="5761000" />
+      <workItem from="1628216571730" duration="422000" />
+      <workItem from="1628221710006" duration="12918000" />
+      <workItem from="1628308916887" duration="564000" />
+      <workItem from="1628309677997" duration="3751000" />
+      <workItem from="1628474315852" duration="1699000" />
+      <workItem from="1628560671361" duration="1006000" />
+      <workItem from="1628574568411" duration="7854000" />
+      <workItem from="1628589177928" duration="8609000" />
+      <workItem from="1628603713599" duration="3902000" />
+      <workItem from="1628655257536" duration="5601000" />
+      <workItem from="1628736048237" duration="12739000" />
+      <workItem from="1628821079670" duration="4581000" />
+      <workItem from="1628891397929" duration="22000" />
+      <workItem from="1628938704485" duration="191000" />
+      <workItem from="1628944053083" duration="3647000" />
+      <workItem from="1628957344099" duration="553000" />
+      <workItem from="1629099299328" duration="772000" />
+      <workItem from="1629184600178" duration="12638000" />
+      <workItem from="1629514506688" duration="1126000" />
+      <workItem from="1629519660198" duration="5000" />
+      <workItem from="1629524414922" duration="6000" />
+      <workItem from="1629679150543" duration="6567000" />
+      <workItem from="1629687853094" duration="4000" />
+      <workItem from="1629761202137" duration="1008000" />
+      <workItem from="1629766873704" duration="1543000" />
+      <workItem from="1629880799309" duration="765000" />
+      <workItem from="1629939314557" duration="789000" />
+      <workItem from="1629942233430" duration="4000" />
+      <workItem from="1629984001416" duration="650000" />
+      <workItem from="1630020503567" duration="910000" />
+      <workItem from="1630026240782" duration="10000" />
+      <workItem from="1630026413791" duration="2000" />
+      <workItem from="1630114213840" duration="1101000" />
+      <workItem from="1630199999072" duration="872000" />
+      <workItem from="1630203446427" duration="691000" />
+      <workItem from="1630206434382" duration="8144000" />
+      <workItem from="1630221395955" duration="5000" />
+      <workItem from="1630298401329" duration="1271000" />
+      <workItem from="1630387967628" duration="457000" />
+      <workItem from="1630461082198" duration="733000" />
+      <workItem from="1630555829951" duration="1394000" />
+      <workItem from="1630631452436" duration="783000" />
+      <workItem from="1630725454777" duration="753000" />
+      <workItem from="1630813616944" duration="831000" />
+      <workItem from="1630914829783" duration="1336000" />
+      <workItem from="1630978651335" duration="1285000" />
+      <workItem from="1631069875597" duration="1436000" />
+      <workItem from="1631160014583" duration="1238000" />
+      <workItem from="1631168475315" duration="4000" />
+      <workItem from="1631248643816" duration="287000" />
+      <workItem from="1631274494222" duration="61000" />
+      <workItem from="1631275656126" duration="5000" />
+      <workItem from="1631509276608" duration="140000" />
+      <workItem from="1631524151633" duration="5258000" />
+      <workItem from="1631672264362" duration="713000" />
+      <workItem from="1631767506830" duration="687000" />
+      <workItem from="1631844715198" duration="832000" />
+      <workItem from="1631965657640" duration="5000" />
+      <workItem from="1632062693477" duration="694000" />
+      <workItem from="1632134815213" duration="383000" />
+      <workItem from="1632217317322" duration="1071000" />
+      <workItem from="1632311679289" duration="713000" />
+      <workItem from="1632351179274" duration="158000" />
+      <workItem from="1632455525995" duration="448000" />
+      <workItem from="1632712348138" duration="2515000" />
+      <workItem from="1632807331342" duration="2981000" />
+      <workItem from="1632848023976" duration="5000" />
+      <workItem from="1632883298120" duration="3547000" />
+      <workItem from="1633006208525" duration="16570000" />
+      <workItem from="1633320351621" duration="2398000" />
+      <workItem from="1633401948052" duration="1189000" />
+      <workItem from="1633415293162" duration="4674000" />
+      <workItem from="1633422434639" duration="82000" />
+      <workItem from="1633488519986" duration="2872000" />
+      <workItem from="1633597436798" duration="11659000" />
+      <workItem from="1633655972776" duration="4339000" />
+      <workItem from="1633667734534" duration="600000" />
+      <workItem from="1633746198521" duration="4036000" />
+      <workItem from="1633843975745" duration="1383000" />
+      <workItem from="1633951973669" duration="5723000" />
+      <workItem from="1633973282451" duration="1290000" />
+      <workItem from="1634017684431" duration="5525000" />
+      <workItem from="1634313030354" duration="974000" />
+      <workItem from="1634359055676" duration="1000" />
+      <workItem from="1634457789583" duration="1313000" />
+      <workItem from="1634525695509" duration="3652000" />
+      <workItem from="1634651741552" duration="1979000" />
+      <workItem from="1634734246130" duration="5404000" />
+      <workItem from="1634810789874" duration="2281000" />
+      <workItem from="1634898114510" duration="6372000" />
+      <workItem from="1634950719319" duration="4000" />
+      <workItem from="1634953107181" duration="8703000" />
+      <workItem from="1635089109153" duration="15726000" />
+      <workItem from="1635244051201" duration="10019000" />
+      <workItem from="1635305128129" duration="8106000" />
+      <workItem from="1635431813189" duration="5604000" />
+      <workItem from="1635483074145" duration="2684000" />
+      <workItem from="1635567371568" duration="8504000" />
+      <workItem from="1635751403505" duration="14000" />
+      <workItem from="1635821302280" duration="9792000" />
+      <workItem from="1635929944501" duration="2382000" />
+      <workItem from="1635998142740" duration="2472000" />
+      <workItem from="1636086446230" duration="6440000" />
+      <workItem from="1636183351737" duration="3246000" />
+      <workItem from="1636260060265" duration="5000" />
+      <workItem from="1636344984921" duration="3003000" />
+      <workItem from="1636348515442" duration="4034000" />
+      <workItem from="1636447104636" duration="2810000" />
+      <workItem from="1636535578096" duration="3254000" />
+      <workItem from="1636622904481" duration="3770000" />
+      <workItem from="1636691996541" duration="12165000" />
+      <workItem from="1636786311585" duration="11260000" />
+      <workItem from="1636960524618" duration="6562000" />
+      <workItem from="1637046723911" duration="4912000" />
+      <workItem from="1637070107021" duration="676000" />
+      <workItem from="1637126415304" duration="159000" />
+      <workItem from="1637205576564" duration="6836000" />
+      <workItem from="1637220865469" duration="1086000" />
+      <workItem from="1637288366568" duration="700000" />
+      <workItem from="1637372656796" duration="74000" />
+      <workItem from="1637547645266" duration="908000" />
+      <workItem from="1637653968185" duration="1943000" />
+      <workItem from="1637718061479" duration="6263000" />
+      <workItem from="1637890783249" duration="9205000" />
+      <workItem from="1638023683339" duration="2019000" />
+      <workItem from="1638163555244" duration="7971000" />
+      <workItem from="1638181260285" duration="821000" />
+      <workItem from="1638255321396" duration="6573000" />
+      <workItem from="1638263497625" duration="648000" />
+      <workItem from="1638326652408" duration="15218000" />
+      <workItem from="1638409661652" duration="9378000" />
+      <workItem from="1638520961212" duration="1127000" />
+      <workItem from="1638593191647" duration="42000" />
+      <workItem from="1638770340225" duration="5150000" />
+      <workItem from="1638847656206" duration="3000" />
+      <workItem from="1638852133486" duration="8440000" />
+      <workItem from="1638867352309" duration="4000" />
+      <workItem from="1638872079483" duration="9000" />
+      <workItem from="1638909675606" duration="3863000" />
+      <workItem from="1639000345380" duration="22000" />
+      <workItem from="1639010602206" duration="161000" />
+      <workItem from="1639183633006" duration="6835000" />
+      <workItem from="1639368684556" duration="1117000" />
+      <workItem from="1639470399294" duration="2028000" />
+      <workItem from="1639575932378" duration="3318000" />
+      <workItem from="1639633116879" duration="5708000" />
+      <workItem from="1639739434557" duration="3234000" />
+      <workItem from="1639795338332" duration="3393000" />
+      <workItem from="1639871990389" duration="3514000" />
+      <workItem from="1639999730161" duration="3152000" />
+      <workItem from="1640057244236" duration="4000" />
+      <workItem from="1640065749047" duration="4026000" />
+      <workItem from="1640076744486" duration="9000" />
+      <workItem from="1640182586949" duration="2289000" />
+      <workItem from="1640222781116" duration="7072000" />
+      <workItem from="1640258413679" duration="3884000" />
+      <workItem from="1640343475809" duration="1501000" />
+      <workItem from="1640354377301" duration="1501000" />
+      <workItem from="1640612639175" duration="1848000" />
+      <workItem from="1640614663381" duration="433000" />
+      <workItem from="1640615542696" duration="129000" />
+      <workItem from="1640691361793" duration="3527000" />
+      <workItem from="1640697462555" duration="193000" />
+      <workItem from="1640697686102" duration="97000" />
+      <workItem from="1640768128271" duration="2528000" />
+      <workItem from="1640923005517" duration="2551000" />
+      <workItem from="1641007250385" duration="2181000" />
+      <workItem from="1641041757879" duration="2000" />
+      <workItem from="1641168296257" duration="1930000" />
+      <workItem from="1641257515174" duration="2649000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1625042309949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625042309949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01934.coverage" NAME="BOJ 01934 Coverage Results" MODIFIED="1637070724291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_22114__1_.coverage" NAME="BOJ 22114 (1) Coverage Results" MODIFIED="1626762013722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11660.coverage" NAME="BOJ 11660 Coverage Results" MODIFIED="1637655301441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$tayson.coverage" NAME="tayson Coverage Results" MODIFIED="1635144917000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01208.coverage" NAME="BOJ 01208 Coverage Results" MODIFIED="1640184454926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11657.coverage" NAME="BOJ 11657 Coverage Results" MODIFIED="1636094505518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11277.coverage" NAME="BOJ 11277 Coverage Results" MODIFIED="1627905740948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_19577.coverage" NAME="BOJ 19577 Coverage Results" MODIFIED="1627663591264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_15657.coverage" NAME="BOJ 15657 Coverage Results" MODIFIED="1637052444644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_13305.coverage" NAME="BOJ 13305 Coverage Results" MODIFIED="1640924968176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11651.coverage" NAME="BOJ 11651 Coverage Results" MODIFIED="1636000024038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_14938.coverage" NAME="BOJ 14938 Coverage Results" MODIFIED="1639810850041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01019__1_.coverage" NAME="BOJ 01019 (1) Coverage Results" MODIFIED="1627589202734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes-pp" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02150.coverage" NAME="BOJ 02150 Coverage Results" MODIFIED="1627799726271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$temp_c.coverage" NAME="temp c Coverage Results" MODIFIED="1630216648219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_20040.coverage" NAME="BOJ 20040 Coverage Results" MODIFIED="1640068755146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$TEMP_03.coverage" NAME="TEMP 03 Coverage Results" MODIFIED="1626784886890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_12728.coverage" NAME="BOJ 12728 Coverage Results" MODIFIED="1636804895103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01007.coverage" NAME="BOJ 01007 Coverage Results" MODIFIED="1635258342617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_05014.coverage" NAME="BOJ 05014 Coverage Results" MODIFIED="1637849873047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_14428.coverage" NAME="BOJ 14428 Coverage Results" MODIFIED="1633626490484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$temp_06.coverage" NAME="temp 06 Coverage Results" MODIFIED="1629448561540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01600.coverage" NAME="BOJ 01600 Coverage Results" MODIFIED="1637213350136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$temp_d.coverage" NAME="temp d Coverage Results" MODIFIED="1630211129081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_13172.coverage" NAME="BOJ 13172 Coverage Results" MODIFIED="1639879376791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_03679__1_.coverage" NAME="BOJ 03679 (1) Coverage Results" MODIFIED="1628957489254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes-pp" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_12516.coverage" NAME="BOJ 12516 Coverage Results" MODIFIED="1627294861470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02581.coverage" NAME="BOJ 02581 Coverage Results" MODIFIED="1640344192478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_17401.coverage" NAME="BOJ 17401 Coverage Results" MODIFIED="1636803857110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02096.coverage" NAME="BOJ 02096 Coverage Results" MODIFIED="1635932031660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_08393.coverage" NAME="BOJ 08393 Coverage Results" MODIFIED="1631160650946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01298.coverage" NAME="BOJ 01298 Coverage Results" MODIFIED="1633146661607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$TEMP_02.coverage" NAME="TEMP 02 Coverage Results" MODIFIED="1626779626033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_15824.coverage" NAME="BOJ 15824 Coverage Results" MODIFIED="1633662677953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$temp_01.coverage" NAME="temp 01 Coverage Results" MODIFIED="1629443771239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_14499.coverage" NAME="BOJ 14499 Coverage Results" MODIFIED="1634528883823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01014.coverage" NAME="BOJ 01014 Coverage Results" MODIFIED="1638424970742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_15683.coverage" NAME="BOJ 15683 Coverage Results" MODIFIED="1634973609111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_03648.coverage" NAME="BOJ 03648 Coverage Results" MODIFIED="1638863133457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02565.coverage" NAME="BOJ 02565 Coverage Results" MODIFIED="1640772330181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_14891.coverage" NAME="BOJ 14891 Coverage Results" MODIFIED="1639638762270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_20149.coverage" NAME="BOJ 20149 Coverage Results" MODIFIED="1638775425653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02740.coverage" NAME="BOJ 02740 Coverage Results" MODIFIED="1641010714553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01915.coverage" NAME="BOJ 01915 Coverage Results" MODIFIED="1635750641658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_19585.coverage" NAME="BOJ 19585 Coverage Results" MODIFIED="1628666379720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_14503.coverage" NAME="BOJ 14503 Coverage Results" MODIFIED="1632886080315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$temp_03.coverage" NAME="temp 03 Coverage Results" MODIFIED="1634813138822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_16236.coverage" NAME="BOJ 16236 Coverage Results" MODIFIED="1634773383359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$TEMP.coverage" NAME="TEMP Coverage Results" MODIFIED="1628747948419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02573.coverage" NAME="BOJ 02573 Coverage Results" MODIFIED="1639741236183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_07562.coverage" NAME="BOJ 07562 Coverage Results" MODIFIED="1641258278566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_08111.coverage" NAME="BOJ 08111 Coverage Results" MODIFIED="1627284853624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02448.coverage" NAME="BOJ 02448 Coverage Results" MODIFIED="1636347413445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11281.coverage" NAME="BOJ 11281 Coverage Results" MODIFIED="1627963839759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01068.coverage" NAME="BOJ 01068 Coverage Results" MODIFIED="1638025495283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$TEMP_05.coverage" NAME="TEMP 05 Coverage Results" MODIFIED="1626790440957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$temp_08.coverage" NAME="temp 08 Coverage Results" MODIFIED="1629445455844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_16724.coverage" NAME="BOJ 16724 Coverage Results" MODIFIED="1639191894232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_04355.coverage" NAME="BOJ 04355 Coverage Results" MODIFIED="1627657097069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01533.coverage" NAME="BOJ 01533 Coverage Results" MODIFIED="1628607994680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11400.coverage" NAME="BOJ 11400 Coverage Results" MODIFIED="1628126096492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_12850.coverage" NAME="BOJ 12850 Coverage Results" MODIFIED="1640002887698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$temp_a.coverage" NAME="temp a Coverage Results" MODIFIED="1630215329018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$TEMP_01.coverage" NAME="TEMP 01 Coverage Results" MODIFIED="1626777111398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_16565.coverage" NAME="BOJ 16565 Coverage Results" MODIFIED="1633749681394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes-pp" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_22116__1_.coverage" NAME="BOJ 22116 (1) Coverage Results" MODIFIED="1626762009805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02618.coverage" NAME="BOJ 02618 Coverage Results" MODIFIED="1628602033711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes-pp" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01707.coverage" NAME="BOJ 01707 Coverage Results" MODIFIED="1635485372719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_15663.coverage" NAME="BOJ 15663 Coverage Results" MODIFIED="1637289007992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_15654.coverage" NAME="BOJ 15654 Coverage Results" MODIFIED="1636633910481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01028.coverage" NAME="BOJ 01028 Coverage Results" MODIFIED="1637900423859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_03055.coverage" NAME="BOJ 03055 Coverage Results" MODIFIED="1639579837846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_17298.coverage" NAME="BOJ 17298 Coverage Results" MODIFIED="1641169676268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11653.coverage" NAME="BOJ 11653 Coverage Results" MODIFIED="1640614298819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes-pp" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01019.coverage" NAME="BOJ 01019 Coverage Results" MODIFIED="1627588586584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_09328.coverage" NAME="BOJ 09328 Coverage Results" MODIFIED="1640262052049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02143.coverage" NAME="BOJ 02143 Coverage Results" MODIFIED="1638913798295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_04196.coverage" NAME="BOJ 04196 Coverage Results" MODIFIED="1627824175927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11400b.coverage" NAME="BOJ 11400b Coverage Results" MODIFIED="1628126705208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_09019.coverage" NAME="BOJ 09019 Coverage Results" MODIFIED="1635316194706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_13907.coverage" NAME="BOJ 13907 Coverage Results" MODIFIED="1638353822496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_09020.coverage" NAME="BOJ 09020 Coverage Results" MODIFIED="1640695309270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$TEMP2.coverage" NAME="TEMP2 Coverage Results" MODIFIED="1628746339486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_10989.coverage" NAME="BOJ 10989 Coverage Results" MODIFIED="1635999530954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_05427.coverage" NAME="BOJ 05427 Coverage Results" MODIFIED="1635833989842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_09240.coverage" NAME="BOJ 09240 Coverage Results" MODIFIED="1626958834975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_13171.coverage" NAME="BOJ 13171 Coverage Results" MODIFIED="1637722098236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11723.coverage" NAME="BOJ 11723 Coverage Results" MODIFIED="1636185577818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_04225.coverage" NAME="BOJ 04225 Coverage Results" MODIFIED="1628749807367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11689.coverage" NAME="BOJ 11689 Coverage Results" MODIFIED="1627656565284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_16287.coverage" NAME="BOJ 16287 Coverage Results" MODIFIED="1627669611651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02225.coverage" NAME="BOJ 02225 Coverage Results" MODIFIED="1639472394423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_13977.coverage" NAME="BOJ 13977 Coverage Results" MODIFIED="1633489903678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02568.coverage" NAME="BOJ 02568 Coverage Results" MODIFIED="1627144241350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11000.coverage" NAME="BOJ 11000 Coverage Results" MODIFIED="1639369200524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_15686.coverage" NAME="BOJ 15686 Coverage Results" MODIFIED="1633017679200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02206__1_.coverage" NAME="BOJ 02206 (1) Coverage Results" MODIFIED="1634023990223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes-cmplt" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_13141.coverage" NAME="BOJ 13141 Coverage Results" MODIFIED="1633091513949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$temp_04.coverage" NAME="temp 04 Coverage Results" MODIFIED="1629444446127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_07579.coverage" NAME="BOJ 07579 Coverage Results" MODIFIED="1635443876975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02568__1_.coverage" NAME="BOJ 02568 (1) Coverage Results" MODIFIED="1627398381154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes-pp" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$temp_09.coverage" NAME="temp 09 Coverage Results" MODIFIED="1629446297276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$temp_f.coverage" NAME="temp f Coverage Results" MODIFIED="1630207410425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_06086.coverage" NAME="BOJ 06086 Coverage Results" MODIFIED="1638174716478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_10840.coverage" NAME="BOJ 10840 Coverage Results" MODIFIED="1626839233323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_17371.coverage" NAME="BOJ 17371 Coverage Results" MODIFIED="1633322758423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01708.coverage" NAME="BOJ 01708 Coverage Results" MODIFIED="1626956139340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_02206.coverage" NAME="BOJ 02206 Coverage Results" MODIFIED="1633968740323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_03679.coverage" NAME="BOJ 03679 Coverage Results" MODIFIED="1636717203957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01086.coverage" NAME="BOJ 01086 Coverage Results" MODIFIED="1636969223512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_14939.coverage" NAME="BOJ 14939 Coverage Results" MODIFIED="1636352598468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_01987.coverage" NAME="BOJ 01987 Coverage Results" MODIFIED="1629685635539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_11376.coverage" NAME="BOJ 11376 Coverage Results" MODIFIED="1638263406766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_16928.coverage" NAME="BOJ 16928 Coverage Results" MODIFIED="1637548459975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_16402.coverage" NAME="BOJ 16402 Coverage Results" MODIFIED="1626765531232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_12851.coverage" NAME="BOJ 12851 Coverage Results" MODIFIED="1636537406744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm_boj$BOJ_14502.coverage" NAME="BOJ 14502 Coverage Results" MODIFIED="1632809485501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
