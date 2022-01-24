@@ -2,38 +2,39 @@ import sys
 from collections import deque
 
 N_ = int(sys.stdin.readline())
-grd_ = [[[] for _ in range(2 * N_ - 1)] for _ in range(2)]
+
+grd_ = [[[] for _ in range(N_ - o_)] for o_ in range(2)]
+bit_ = [0, 0]
 for idx_r in range(N_):
     for idx_c, value_ in enumerate(map(int, sys.stdin.readline().split())):
-        idx_ = 2 * (N_ - 1 - abs((idx_r + idx_c) - (N_ - 1))) + (0 if (idx_r + idx_c) - (N_ - 1) <= 0 else 1)
+        temp_ = idx_r + idx_c
+        idx_, o_ = divmod(temp_, 2)
         if value_:
             temp_ = idx_r - idx_c + N_ - 1
-            grd_[idx_].append(temp_)
-            bit_ = 1 << temp_
-            state_ |= bit_
+            grd_[o_][idx_].append(temp_)
+            bit_[o_] |= 1 << temp_
 
-print(grd_)
+for each_ in grd_:
+    print(each_)
 
-min_ = 0
-que_ = deque([(0, 0, state_)])
-while que_:
-
-
-
-
-while hqu_:
-    cnt_, depth_, state_ = hq.heappop(hqu_)
-    if state_:
-        if depth_ == 2 * N_ - 1:
-            min_ = min(min_, cnt_)
+tot_ = 0
+for o_ in range(2):
+    que_ = deque([(0, 0, bit_[o_])])
+    max_ = 0
+    while que_:
+        cnt_, depth_, bit_c = que_.popleft()
+        if bit_:
+            if depth_ == N_ - o_:
+                max_ = max(max_, cnt_)
+            else:
+                for num_ in grd_[o_][depth_]:
+                    bit_temp = 1 << num_
+                    if bit_c & bit_temp:
+                        que_.append((cnt_ + 1, depth_ + 1, bit_c ^ bit_temp))
+                que_.append((cnt_, depth_ + 1, bit_c))
         else:
-            for num_ in grd_[depth_]:
-                bit_ = 1 << num_
-                if state_ & bit_:
-                    state_temp = state_ ^ bit_
-                    hq.heappush(hqu_, (cnt_ - 1, depth_ + 1, state_temp))
-            hq.heappush(hqu_, (cnt_, depth_ + 1, state_))
-
-print(-min_)
+            max_ = max(max_, cnt_)
+    tot_ += max_
+print(tot_)
 
 exit()
