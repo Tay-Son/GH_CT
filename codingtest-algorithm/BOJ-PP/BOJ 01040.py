@@ -9,6 +9,8 @@ L_ = len(N_s)
 grd_dp = [[-1 for _ in range(2 ** 10)] for _ in range(L_)]
 
 
+
+
 def rec_(val_, depth_, bit_, cnt_, as_):
     print(val_, depth_, bin(bit_)[2:], cnt_)
     if depth_ == L_:
